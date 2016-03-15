@@ -9,24 +9,24 @@
 * Report types and statuses, and escalating reports:  
     You will encounter various types of reports while moderating. The types are:
 
-    Move/Delete my post: The reporter wishes to have the post either moved or deleted. Do not delete posts if the poster and reporter are different, unless the reporter has a valid explanation.
-    Wrong section: The post is in the wrong forum section, and needs to be moved.
-    Duplicate post: The reported post is a copy of another post. The reporter will usually include the link to the copied post.
-    Spam: The post may be spam. Posts like "+1" are considered spam. 
-    Bumping: The post may be bumping the thread it's in.
-    Invalid suggestion: The thread may be an invalid suggestion. Mostly used in the Suggestions section.
-    Flaming: The post may be rude or abrasive to others.
-    Profanity or inappropriate material: The post may contain profanity or other inappropriate material such as nudity.
-    Stolen content: The post may contain stolen or unlicensed content.
-    Virus or malware: The post may contain (or link to) malware or viruses. Always temporarily delete the post while working on it!
+    Move/Delete my post: The reporter wishes to have the post either moved or deleted. Do not delete posts if the poster and reporter are different, unless the reporter has a valid explanation.    
+    Wrong section: The post is in the wrong forum section, and needs to be moved.    
+    Duplicate post: The reported post is a copy of another post. The reporter will usually include the link to the copied post.    
+    Spam: The post may be spam. Posts like "+1" are considered spam.    
+    Bumping: The post may be bumping the thread it's in.    
+    Invalid suggestion: The thread may be an invalid suggestion. Mostly used in the Suggestions section.    
+    Flaming: The post may be rude or abrasive to others.    
+    Profanity or inappropriate material: The post may contain profanity or other inappropriate material such as nudity.   
+    Stolen content: The post may contain stolen or unlicensed content.    
+    Virus or malware: The post may contain (or link to) malware or viruses. Always temporarily delete the post while working on it!    
     
     Reports also have different statuses, they are:
     
-    New: A moderator has not handled this report yet.
-    Under review: A moderator is currently working on this report.
-    Escalated: A particular individual is responsible for this report, usually stated in the report's comment section.
-    Resolved: This report was taken by a moderator and the issue has been fixed.
-    Declined: The report was not valid and has been declined by the moderator.
+    New: A moderator has not handled this report yet.    
+    Under review: A moderator is currently working on this report.    
+    Escalated: A particular individual is responsible for this report, usually stated in the report's comment section.    
+    Resolved: This report was taken by a moderator and the issue has been fixed.    
+    Declined: The report was not valid and has been declined by the moderator.    
     
     If only a particular person can handle a report, you may escalate a report to that person. Leave a comment saying who you've escalated the report to (i.e "I am escalating this to citricsquid"), then mark the report as escalated.
 
@@ -62,6 +62,7 @@
 * Bans:
     A ban is a restriction on a members account. These restrictions can affect posting, visiting and interacting with the forum. A posting restriction is also considered a type of ban. When you issue a formal warning to someone, they are given warning points. These points are then used to trigger automatic posting bans. Note that permanent bans are never automatically issued. Points also expire automatically after thirty days. The point levels and ban lengths are as follows:
     
+    1 points: No posting ban.
     2 points: 3 day ban from posting.    
     3 points: 5 day ban from posting.    
     4 points: 7 day ban from posting.    
