@@ -50,8 +50,23 @@
 * Viewing post history:  
     The post history feature allows you to view all revisions made on a particular post. To view the edit history of a post, click on "Tools > Post history" in the dropdown-box near the bottom of the post. You can also rollback a post to a previous revision by using the "Rollback post to revision" list. Select the version you want to rollback to, then click the "RollBack" button.
 
+* How the spam system works:
+    The forum's built-in spam filter learns posts that have been marked as spam, and is more likely to automatically mark similar posts as spam. For example, if a post containing "Football" is marked as spam, then the next time a post with "Football" is posted, the filter is more likely to consider that post spam. Do not mark threads such as server advertisements or mod threads that have been double-posted, for example, as we don't want the spam filter to accidentally mark legitimate threads as spam.
+
 * What is spam, and how to mark a post as spam:  
     Spam are posts (or threads) generally created by new accounts that has been made for the sole purpose of advertising non-Minecraft content. To mark a thread as spam, click on "Tools > Mark as spam", use "Tools > Spam" for posts. Do not mark posts such as "bump" or "lol" as spam! The automatic spam filter learns posts that have been marked as spam, and incorrectly marking posts may cause legitimate posts to be marked as spam.
 
 * Appeals:  
     Members can submit appeals if they feel that a warning has been issued incorrectly. You'll be able to see the user who submitted the appeal, the type of appeal (warning, ban, etc), the description for the appeal, and links to all the necessary information. You can view appeals in your moderation control panel at http://www.minecraftforum.net/cp/appeals, however, do not participate in the appeals process unless an administrator asks you to.
+
+* Bans:
+    A ban is a restriction on a members account. These restrictions can affect posting, visiting and interacting with the forum. A posting restriction is also considered a type of ban. When you issue a formal warning to someone, they are given warning points. These points are then used to trigger automatic posting bans. Note that permanent bans are never automatically issued. Points also expire automatically after thirty days. The point levels and ban lengths are as follows:
+    
+    2 points: 3 day ban from posting.    
+    3 points: 5 day ban from posting.    
+    4 points: 7 day ban from posting.    
+    5 points: 14 day ban from posting.    
+    6+ points: 30 day bans from posting.    
+
+* Member Administrative Reviews (MARs):
+    If a member constantly breaks the forum's rules, you may ask an administrator to review his account to discuss consequences and possibly a more severe punishment. There is no set number of warnings as to when a member should have a MAR, but 4+ warnings usually warrants a review. To sumbit a member for a MAR, simply add a card to the "Member Administrative Review" list on the "Forum Moderation" board on Trello with the member's username in the title, and a summary as to why you're reporting them, and any relevant links such as to previous warnings or a post they may have made.
