@@ -2,11 +2,11 @@
 
 ## Banned Entities
 
-The servers section has banned entities, these users, hosts, servers, and websites have been banned from the forum because of serious or continuous rule violations. Banned Entities are kept track of on the [Trello board of the same name](https://trello.com/b/nPUMSuW6/banned-entities) which is managed by the Forum Administrators. When a banned entity makes an appearance on the forum a card should be created in the To Do list on the [Forum Moderation](https://trello.com/b/VP7ordvf/forum-moderation) so that the section administrator can take action against the account.
+The servers section has banned entities, these users, hosts, servers, and websites have been banned from the forum because of serious or continuous rule violations. Banned Entities are kept track of on the [Trello board of the same name](https://trello.com/b/nPUMSuW6/banned-entities) which is managed by the Forum Administrators. When a banned entity makes an appearance on the forum a card should be created in the To Do list on the [Forum Moderation](https://trello.com/b/VP7ordvf/forum-moderation) so that the section administrator can take action.
 
 ## What is bumping?
 
-Posting in a thread with the sole intention of bringing the thread back to the top of the section without providing any additional content for the thread is bumping. The forum does not permit bumping because it benefits the thread author at the expense of other forum users, this is because it gives the impression that there is a new reason to visit the thread. The most common form that bumps take is a post containing just the word "bump", however some members are more sophisticated and may bump with posts such as "We're still looking for players!" or "There are 10 people online". The easiest way to differentiate a bump from a legitimate post is to consider whether or not the post provides any value for visitors to the thread. 
+Posting in a thread with the sole intention of bringing the thread back to the top of the section without providing any additional content to the thread is bumping. The forum does not permit bumping because it benefits the thread author at the expense of other forum users by giving the impression that there is a new content in the thread. The most common form that bumps take is a post containing just the word "bump", however some members are more sophisticated and may bump with posts such as "We're still looking for players!" or "There are 10 people online". The easiest way to differentiate a bump from a legitimate post is to consider whether or not the post provides any value for visitors to the thread. 
 
 ## Acceptable 'bump schemes'
 
