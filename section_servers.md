@@ -2,7 +2,7 @@
 
 ## Banned Entities
 
-The servers section has banned entities, these users, hosts, servers, and websites have been banned from the forum because of serious or continuous rule violations. Banned Entities are kept track of on the [Trello board of the same name](https://trello.com/b/nPUMSuW6/banned-entities) which is managed by the Forum Administrators. When a banned entity makes an appearance on the forum a card should be created in the To Do list on the [Forum Moderation](https://trello.com/b/VP7ordvf/forum-moderation) so that the section administrator can take action.
+The servers section has banned entities, these users, hosts, servers, and websites have been banned from the forum because of serious or continuous rule violations. Banned Entities are kept track of on the [Trello board of the same name](https://trello.com/b/nPUMSuW6/banned-entities) which is managed by the Forum Administrators. When a banned entity makes an appearance on the forum a card should be created in the To Do list on the [Forum Moderation](https://trello.com/b/VP7ordvf/forum-moderation) board so that the section administrator can take action.
 
 ## Bumping
 
