@@ -5,12 +5,10 @@ Support moderators help users find and receive high quality Minecraft support by
 * Modify thread titles to improve clarity
 * Add relevant prefixes to threads
 * Format posts using spoilers to collapse crash reports
-* Manage the visibility of service status threads
 * Lock duplicate threads about service status
 * Redirect bug reports to the [official Mojang Bug Tracker](https://bugs.mojang.com/browse/MC) with the [Bug Reporting 101 Guide](http://www.minecraftforum.net/forums/support/unmodified-minecraft-client/1855459-official-bug-reporting)
 * Remove information from posts that could compromise a members security
-* Removed threads from members using cracked launchers
-* Remove duplicate threads about the same bug
+* Remove threads from members seeking support for cracked launchers
 
 ## Hijacking
 
