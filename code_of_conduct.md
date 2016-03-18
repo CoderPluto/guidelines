@@ -2,6 +2,10 @@
 
 Minecraft Forum staff members represent the Minecraft Forum both on and off the forum, and their behaviour must reflect on the high standards we hold ourselves to.
 
+## Communication
+
+Public and private communication between staff and members must be polite and constructive at all times, every member must be given the opportunity to voice their questions or concerns and receive a fair and measured response. If a staff member feels they aren't able to provide an adequate response for any reason, such as conflict of interest or lack of knowledge, they should defer to another staff member who can.
+
 ## Privacy
 
 The privacy of each member of the forum must be respected at all times regardless of their behaviour. Any private information must not be disclosed to any non staff member without the members explicit permission. Private information includes warnings, IP addresses, email addresses, reports and private discussions.
