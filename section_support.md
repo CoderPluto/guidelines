@@ -22,4 +22,4 @@ After a support thread is finished with it should be locked to prevent further r
 
 ## Other
 
-Support moderators are encouraged to provide support in the Support section, and to have a presence in the #minecrafthelp IRC channel to observe how certain issues are handled, and to obtain information on current issues impacting Minecraft players.
+Support moderators are encouraged to provide support in the Support section, and to have a presence in the [#minecrafthelp IRC channel on irc.esper.net](http://www.minecraftforum.net/meta/chat) to observe how certain issues are handled, and to obtain information on current issues impacting Minecraft players.
