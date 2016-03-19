@@ -4,7 +4,7 @@ Any thread made to advertise a Minecraft Server in any Minecraft Discussion sect
 
 ## Suggestions
 
-Replies to suggestions must be constructive criticism of the suggestion or offer ideas on how to expand the original idea, posts containing just `Support` or `No Support` aren't constructive and should be removed.
+Replies to suggestions must be constructive criticism of the suggestion or offer ideas on how to expand the original idea, posts containing just `Support` or `No Support` aren't constructive and should be removed. A member who is persistently posting nonconstructively should be warned for Spamming.
 
 ### Wishlists
 
