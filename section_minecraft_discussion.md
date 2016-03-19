@@ -1,41 +1,19 @@
 # Minecraft Discussion
 
-## General
-* Server threads: Warn the user and delete the thread
-
-## Discussion
-* This section gets a lot of spam. Please use the "Bot Spam" warning when dealing with these threads
+Any thread made to advertise a Minecraft Server in any Minecraft Discussion section should be issued a formal Wrong Section Servers warning. Formal warnings are used because members are usually aware it's the wrong section and make the thread anyway because of the additional exposure their server will receive.
 
 ## Suggestions
-* Wishlist threads
-  * A 'wishlist' thread is a thread with a series of unrelated suggestions. We don't allow threads like this because they tend to not generate good discussion. We do allow multiple items per suggestion, as long as they are related. 
-  * Example: A suggestion about a gardening update feature new plants, tools, and gardening type blocks __would__ be allowed. However, a suggestion featuring a new dragon mob, emerald armor, and new command block commands __would not__ be allowed.
-  * Moderating: Post in the thread informing the user that wish list type threads aren't allowed and that thye should repost each suggestion separately
-* "Support" / "No support"
-  * Posts like "Support" or "No support" are considered 'low effort'. Posts should be constructive criticism of the suggestion or offer ideas on how to expand the original suggestion
-  * Moderating: Remove the post
-* Duplicate/redundant suggestions
-  * If a thread copies another active suggestion thread it is considered a duplicate or redundant
-  * A suggestion is considered 'active' if there has been a post made within the last calender month
-  * Moderating: Post in the thread informing the user to use the other thread to expand the idea. Post a link to the active thread and lock the offending thread
 
-## Survival Mode
-* Nothing specific
+Replies to suggestions must be constructive criticism of the suggestion or offer ideas on how to expand the original idea, posts containing just `Support` or `No Support` aren't constructive and should be removed.
 
-## Creative Mode/Classic
-* Nothing specific
+### Wishlists
+
+A wishlist is a thread with a series of unrelated suggestions, multiple items per suggestion are permitted as long as they are related, wishlists aren't allowed because they don't tend to produce constructive discussion. For example a suggestion about a gardening update featuring new plants, tools, and gardening type blocks would be allowed. However, a suggestion featuring a new dragon mob, emerald armor, and new command block commands would not be allowed. Wishlists should be locked with a reply informing the user they must create an individual thread for each suggestion.
+
+### Duplicate Suggestions
+
+Suggestions should be limited to one active thread at a time, an active thread is one that has had a post made within the last month. A new thread about an active suggestion should be locked with a link provided to the active thread, where the member is encouraged to expand on the idea in a reply.
 
 ## Seeds
-* If a thread/post shows a seed that isn't in the vanilla game, remove the thread/post
-* If the seed isn't in the OP (Original Post) of the thread, remove the thread
 
-## Redstone
-* Move command block related threads from the 'main' Redstone section into the Command Blocks subsection
-* Threads featuring redstone creations should be moved to the Redstone Creations section
-  * Example: A thread with a video showing off a users redstone computer
-
-## Minecraft Story Mode
-* Nothing specific
-
-## Minecon
-* Nothing specific
+Seeds must be for the Vanilla Minecraft game, and must be included in the opening post of the thread. Any thread not meeting these requirements should be deleted.
