@@ -1,29 +1,15 @@
 # Show Your Creation
 
-## General
-* Minecraft related creations only.
-* Members are not allowed to post content made by others. Use the "Friendly Rules Reminder" if it's their first warning, "Stolen Content" for the next offense.
-* Never warn members for necro-post if they are leaving feedback to a thread.
+Show Your Creation is a section for members to share their own Minecraft related artistic works, any content that wasn't created by the author or isn't about Minecraft should be removed and a Friendly Rules Reminder issued.
 
 ## Screenshots 
-* If there is only a link to an image, embed it for the member and send them a private message explaining how to embed pictures. (use this guide - http://img.mcf.li/images.jpg)
+
+Screenshots must be embedded, moderators should fix posts that link instead of embedding and inform the member via Private Message how they can embed by providing a link to the FAQ.
 
 ## Videos
-* If the thread contains solely a link to a Youtube Channel then issue an infraction for "Channel Linking"; It must be an Informal if it's their very first warning. If they have been warned for it before, issue the full infraction.
-* If the thread starts out as a bunch of links but has video posts later, ignore it.
-* Profanity in videos: remove and warn for profanity. 
-* Bumping in the videos section
-    * If it's a new video, leave it be. If it's anything such as "New video soon!/Please subscribe!/Check out my new signature!", warn for Bumping, Informal if it's their first warning. 
-    * This rule does not apply to the Livestream section, where members use their posts to announce when they're online.
-* Duplicates: Members are allowed to create one thread per video if they want, but they cannot create different threads for the same video.
-* Giveaways: If the giveaway requires people to subscribe/follow the OP on Youtube/Twitter, etc, and/or the giveaway is of monetary value: If they fit into one or both of these categories, give the infraction. Informal if first offense.
-* Other game videos: Lock the thread and inform the member they are not allowed to post it here.
 
-## Videos/Series Help
-* Nothing Specific
-
-## Fan Art
-* Any creations depicting Herobrine as a character must contain a disclaimer stating that Herobrine is not real, and the member is not trying to 'prove' his existence. Use the "Friendly Rules Reminder" option with the "Hoax" template if it's their first offense.
+Each thread in the Videos section must contain at least one video, if a thread just links to a YouTube channel the thread should be removed and a warning for Channel Linking should be issued. Members are permitted to post a new thread for each video they create or keep one thread updated with new videos as replies.
 
 ## Art Shops and Requests
-* Art Shop owners are not allowed to review the quality of other shops. Warn those posts with either Flame Baiting or Spamming, depending on the situation. Don't forget to link them to the Show Your Creation rules. Informal if first offense.
+
+Art Shop owners aren't permitted to review the quality of other shops, these posts should be removed and a warning for Spamming should be issued. If the review is not constructive and inflammatory then a warning for Flame Baiting should be issued.
