@@ -8,7 +8,7 @@ Screenshots must be embedded, moderators should fix posts that link instead of e
 
 ## Videos
 
-Each thread in the Videos section must contain at least one video, if a thread just links to a YouTube channel the thread should be removed and a warning for Channel Linking should be issued. Members are permitted to post a new thread for each video they create or keep one thread updated with new videos as replies.
+Each thread in the Videos section must contain at least one video, if a thread just links to a YouTube channel the thread should be removed and a warning for Channel Linking should be issued. Members are permitted to post a new thread for each video they create or keep one thread updated with new videos in replies.
 
 ## Art Shops and Requests
 
