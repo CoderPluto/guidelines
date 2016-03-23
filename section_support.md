@@ -16,7 +16,7 @@ Support moderators are encouraged to provide support in the Support section, and
 
 Members must create their own thread to request support for the issue they're experiencing, they must not post requests for support in another members thread, this is called "Hijacking". Multiple requests for support in a single thread create confusion between the people requesting support and the people providing support.
 
-When a member hijacks a thread an informal warning should be issued. If the post contains enough information for support to be provided the post should be moved to a new thread in the section using the <kbd>Move</kbd> option, if the post contains no information it should be deleted.
+> When a member hijacks a thread an informal warning should be issued. If the post contains enough information for support to be provided the post should be moved to a new thread in the section using the <kbd>Move</kbd> option, if the post contains no information it should be deleted.
 
 ## Support Status
 
