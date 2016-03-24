@@ -1,53 +1,51 @@
 # Other Platforms 
 
-## General
-* Suggestions
-  * Mojang and 4J already actively look at features from the PC version of Minecraft for added new features to upcomming updates.  These sections are geared for new, original ideas instead of current game requests.
-  * Moderation: Lock these threads with a message stating the Suggestion Section is for original ideas.
+## Suggestions
+
+### Original Suggestions 
+
+Mojang and 4J actively look at features from the PC version of Minecraft, the suggestions section is for original ideas that aren't already a part of another version of the game. Members can suggest things that exist in modded Minecraft but they must include specifics, which can reference the existing mod, rather than simply suggest the mod is added.
+
+> Moderators should lock threads that contain ideas from other versions of Minecraft with a message stating that the Suggestion section is for original ideas only.
 
 ## Minecraft: Pocket Edition Mapping and Modding
 
-* Porting Content from PC version of Minecraft.
-  * It is not uncommon to see members "port" their favorite mods/textures from the PC version of Minecraft.  
-  * Moderation: If the mod/textures the member is porting does not display they have recieved permission, or does not follow the mod/texture's license warn with reason: Stolen Content (MCPE) and hide the thread.  If the member provives they have proof, edit their thread to contain the permission and unhide the thread.
+### Porting 
 
-* Downloads from Online Stores
-  * Links for downloads cannot come from a source such as Amazon/Google Play/Apple/online store.  This does not change if the App is free or paid.  A direct download must be offered.
-  * Moderation: Remove link from thread and warn for Advertising.  If no other download link is given, hide the thread.
+Members are allowed to port community created content from PC Minecraft to Pocket Edition if the content license permits or they have permission from the author. A mod is considered a port if it uses the assets, code or name of an existing mod, a mod that shares the same idea as another mod without any re-use is not considered a port.
 
-* SMP "hack" and "cheat" Mods for Multiplayer 
-  * This includes all mods that are designed to bypass servers that have features such as flying, crafting, creative, ect... disabled.  Unlike the PC version of Minecraft, Pocket Edition is very limited with server protections, and threads that advertise mods that clearly state these mods will give them advantages, or to access features that are otherwise disabled devolve into flamewars and spam.  Mods that allow members to fly, access creative in survival, or otherwise "cheat" while playing in a single player world are still allowed.
-  * Moderation: Hide the thread and warn "Other" stating that mods that are designed to bypass or target specific servers that disabled features for Multiplayer are not allowed.
+> Moderators should delete threads for content that has been ported without permission or does not abide by the terms of the license the original content was released under and a Stolen Content (MCPE) warning should be issued. A moderator can restore the thread if the member is ready to bring the content in compliance, either through adjustments to meet the license requirements or by obtaining permission from the original author.
+
+### Downloads From Online Stores
+
+Links for downloads cannot come from a source such as the Amazon, Google Play or Apple app stores, even if the app is free. Direct downloads are the only acceptable method for distributing content.
+
+> Moderators should remove links to app store downloads from content threads and issue an Advertising warning. A moderator can restore the thread when the member is ready to add a direct download link to the thread.
+
+### Cheat And Hack In Multiplayer Mods
+
+The Minecraft Pocket Edition section does not permit mods that allow players to bypass restrictions on servers to give an unfair advantage or access to abilities not enabled by the server, such as creative in survival or allowing players to fly. Minecraft Pocket Edition servers are limited in the ways they can protect their servers and these mods are disruptive to others, and discussions about them frequently devolve into arguments.
+
+> Moderators should delete threads for mods that enable players to cheat or hack in Multiplayer servers and issue an Other warning with an explanation of the rule.
 
 ## Minecraft: Console Edition General
-* Mods/Map Downloads/Third Party Tools
-  * Many members try to share maps/advertise servers that they have downloaded/originally came from PC Minecraft.  
-  * Moderation: Remove thread and warn Modification (Console).
-* Game Sharing
-  * The term Game Sharing refers to having members share their login details for their consoles to be able to download the game onto multiple systems.  Not only is this promoting piracy, it is also very risky for member's private info.  Once logged onto the account, there is nothing stopping anyone else from using their account to purchase new items from the relavant console's stores, or changing the password to keep the account for themselves.
-  * Moderation: Requests for game sharing should be warned with: Piracy Support / Request / Promotion and the thread hidden.
 
-## Minecraft Console Editions Discussion
-* Multiplayer Threads
-  * A lot of Multiplayer threads show up in the Discussion sections.  
-  * Moderation: Just move these threads to the corresponding Multiplayer section.  Only warn if the member continues to post in the Discussion sections.
+### Game Sharing
 
-## Minecraft: Console Editions Suggestions
-* PC Mod Requests
-  * A lot of suggestions are members requesting a mod from the PC version of Minecraft to be added to the game.
-  * Moderation: Lock thread, state the section is for original ideas, but if there is a feature from a mod they would like to see added to the game to suggest that instead.  They may use the PC mod as a refrence when making their suggestion.
+Sharing account details so that others can download games they have not purchased onto their consoles is not allowed in public or private because it promotes piracy, and exposes individuals private information to theft.
+
+> Moderators should delete any request for or offer of Game Sharing and issue a Piracy Support / Request / Promotion warning.
+
+### Modifications
+
+The Sony and Microsoft terms of service disallow modification of game content, which includes content such as maps, mods, resource packs and tools. Distributing or requesting modified console content is not allowed on the forum.
+
+> Moderators should deleted threads containing downloads and a Modification (Console) warning should be issued.
 
 ## Minecraft: Console Editions Multiplayer
 
-* Multiple Multiplayer Threads
-  * Consoles are unlike the PC and PE versions.  Servers are hosted on the members console, and are online only when the host is connected to the internet, and playing Minecraft.  Maps are small, and they change often.  To limit spam, members are allowed to create one thread for each type of game they play.  If a member wishes to switch to a new map, but continue to play the same game type, they must continue to use their Survival/Creative/Hunger Game thread they had previously created.
-  * Example: One thread for Survival play.  One thread for Creative play.  One thread for Hunger Games.  ect...  
-  * Moderation: If duplicates are found, remove all recent threads and warn for dulicate threads.  Explain in the warning they may only have one thread for their game type and link to their original thread and request they edit the thread it.
+### Multiple Multiplayer Threads
 
-## Minecraft: Console Editions Show Your Creation
-* Duplicate Threads
-  * The console sections are very closely related.  If a member is sharing a video across multiple platforms, the video itself must be recorded from the console.  PlayStation Minecraft with Sony consoles and Xbox Minecraft with Microsoft consoles.
-  * Moderation: If duplicates found across multiple platforms, remove duplicates that are not recorded on the corresponding console and warn for Duplicate Topics.
+Consoles are unlike the PC and PE versions, servers are hosted on the members console and are online only when the host is playing Minecraft. Members are allowed to create one thread per game type they play and must use that thread even when they change the map. For example a thread for Survival, a thread for Creative and a thread for Hunger Games.
 
-# Minecraft: PI
-  * No special instructions.
+> Moderators should delete the duplicate threads and issue a Duplicate Threads warning, leaving behind the first thread created for that game type. The warning message should explain that members are only permitted to create one thread per game type and include a link to the first thread they created for that game type.
