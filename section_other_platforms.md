@@ -44,8 +44,8 @@ The Sony and Microsoft terms of service disallow modification of game content, w
 
 ## Minecraft: Console Editions Multiplayer
 
-### Duplicate Multiplayer Threads
+### Multiple Multiplayer Threads
 
 Consoles are unlike the PC and PE versions, servers are hosted on the members console and are online only when the host is playing Minecraft. Members are allowed to create one thread per game type they play and must use that thread even when they change the map. For example a thread for Survival, a thread for Creative and a thread for Hunger Games.
 
-> Moderators should delete the duplicate threads and issue a Duplicate Threads warning, leaving behind the first thread created for that game type. The warning message should explain that members are only permitted to create one thread per game type and include a link to the first thread they created for that game type.
+> Moderators should delete the duplicate threads for the same game type and issue a Duplicate Threads warning, leaving behind the first thread created for that game type. The warning message should explain that members are only permitted to create one thread per game type and include a link to the first thread they created for that game type.
