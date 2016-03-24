@@ -22,7 +22,7 @@ Links for downloads cannot come from a source such as the Amazon, Google Play or
 
 > Moderators should remove links to app store downloads from content threads and issue an Advertising warning. A moderator can restore the thread when the member is ready to add a direct download link to the thread.
 
-### Cheat And Hack In Multiplayer Mods
+### Cheat and Hack Mods For Multiplayer
 
 The Minecraft Pocket Edition section does not permit mods that allow players to bypass restrictions on servers to give an unfair advantage or access to abilities not enabled by the server, such as creative in survival or allowing players to fly. Minecraft Pocket Edition servers are limited in the ways they can protect their servers and these mods are disruptive to others, and discussions about them frequently devolve into arguments.
 
@@ -44,7 +44,7 @@ The Sony and Microsoft terms of service disallow modification of game content, w
 
 ## Minecraft: Console Editions Multiplayer
 
-### Multiple Multiplayer Threads
+### Duplicate Multiplayer Threads
 
 Consoles are unlike the PC and PE versions, servers are hosted on the members console and are online only when the host is playing Minecraft. Members are allowed to create one thread per game type they play and must use that thread even when they change the map. For example a thread for Survival, a thread for Creative and a thread for Hunger Games.
 
