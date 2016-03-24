@@ -12,7 +12,7 @@ Mojang and 4J actively look at features from the PC version of Minecraft, the su
 
 ### Porting 
 
-Members are allowed to port community created content from PC Minecraft to Pocket Edition if the content license permits or they have permission from the author. A mod is considered a port if it uses the assets, code or name of an existing mod, a mod that shares the same idea as another mod without any re-use is not considered a port.
+Members are allowed to port community created content from PC Minecraft to Pocket Edition if the content license permits or they have permission from the author. A mod is considered a port if it uses the assets, code or name of an existing mod, however using the same idea as an existing mod does not make the mod a port.
 
 > Moderators should delete threads for content that has been ported without permission or does not abide by the terms of the license the original content was released under and a Stolen Content (MCPE) warning should be issued. A moderator can restore the thread if the member is ready to bring the content in compliance, either through adjustments to meet the license requirements or by obtaining permission from the original author.
 
