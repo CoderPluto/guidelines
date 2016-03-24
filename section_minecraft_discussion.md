@@ -6,7 +6,9 @@ Minecraft Discussion does not permit threads advertising Minecraft Servers, visi
 
 ## Suggestions
 
-Replies to suggestions must be constructive criticism of the suggestion or offer ideas on how to expand the original idea, posts containing just `Support` or `No Support` aren't constructive.
+### Constructive Replies
+
+Replies to suggestions must be constructive criticism of the suggestion or offer ideas on how to expand the original idea, posts containing just `Support` or `No Support` are not constructive.
 
 > Moderators should delete any post that isn't constructive, a member who is persistently making posts that aren't constructive should be issued a Spamming warning.
 
