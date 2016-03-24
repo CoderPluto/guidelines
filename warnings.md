@@ -1,5 +1,7 @@
 # Warnings
 
+The warning system is an on the record way to communicate with members about the Minecraft Forum rules, each warning is an opportunity for a member to learn more about the forum rules, they are not a punishment. Staff members must treat each warning discussion as an opportunity to help the recipient better understand the rules, replying to questions or concerns raised by a member in response to a warning is just as important as issuing warnings. Staff members should escalate a Private Message conversation about a warning if they're unable to provide the information the member needs.
+
 ## Appeals  
 
 Members can submit appeals if they feel that a warning has been issued incorrectly. You'll be able to see the user who submitted the appeal, the type of appeal (warning, ban, etc), the description for the appeal, and links to all the necessary information. You can view appeals in the [moderation control panel](http://www.minecraftforum.net/cp/appeals), however moderators are not permitted to participate in the appeal process unless asked by an administrator on an appeal by appeal basis.
