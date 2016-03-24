@@ -4,7 +4,7 @@
 
 ### Original Suggestions 
 
-Mojang and 4J actively look at features from the PC version of Minecraft, the suggestions section is for original ideas that aren't already a part of another version of the game. Members can suggest things that exist in modded Minecraft but they must include specifics, which can reference the existing mod, rather than simply suggest the mod is added.
+Mojang and 4J actively look at features from the PC version of Minecraft, the suggestions section is for original ideas that aren't already a part of another version of the game. Members can suggest things that exist in modded Minecraft and reference the existing mod but they must include specifics rather than simply suggest the mod is added.
 
 > Moderators should lock threads that contain ideas from other versions of Minecraft with a message stating that the Suggestion section is for original ideas only.
 
