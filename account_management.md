@@ -1,4 +1,6 @@
-# Account Management & Password Security
+# Account Management
+
+## Password Security
 
 Password security is very important, even more so when your password protects an account that has elevated access. Minecraft Forum staff have access to a wide variety of tools and private information on the forum and therefore need to take password security seriously, please read [Password Do's and Don'ts](http://krebsonsecurity.com/password-dos-and-donts/) before choosing your Minecraft Forum password.
 
