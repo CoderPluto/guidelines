@@ -6,4 +6,4 @@ The Minecraft Forum Control Panel is protected by [2 Factor Authentication](http
 
 ## Account Compromises
 
-Staff members should always err on the side of caution and inform administrators of any concerns they have about their account securty, this includes Minecraft Forum accounts, Email accounts and Trello accounts. Administrators must be informed immediately when there has been a compromise so that account access can be locked down.
+Staff members should always err on the side of caution and inform administrators of any concerns they have about their account security, this includes Minecraft Forum accounts, Email accounts and Trello accounts. Administrators must be informed immediately when there has been a compromise so that the Minecraft Forum account access can be locked down.
